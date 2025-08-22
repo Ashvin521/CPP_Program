@@ -1,4 +1,4 @@
 # CPP_Program
-A modern age calculator with responsive design.
+This is a collection of C++ programs for beginners.
 <br>
 Author - Ashvin Makvana 
